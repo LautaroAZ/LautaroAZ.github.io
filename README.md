@@ -107,7 +107,6 @@
         </ul>
     </article>
 </section>
-</div>
     </main>
 </body>
 </html>
