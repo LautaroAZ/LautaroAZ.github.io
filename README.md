@@ -1,4 +1,3 @@
-# LautaroAZ.github.io
 <!DOCTYPE html>
 <html lang="es">
 <head>
@@ -107,6 +106,7 @@
         </ul>
     </article>
 </section>
+</div>
     </main>
 </body>
 </html>
